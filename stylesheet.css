@@ -1,0 +1,70 @@
+body, html{
+    height: 100%;
+}
+.project{
+    color:rgb(234, 238, 11);
+    opacity: 0.8px;
+    box-shadow: 2px 2px 2px 2px rgb(251, 255, 8);
+    font-family: Algerian;
+    max-height: 50px;
+    max-width: 1500px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    border-radius: 50px;
+}
+.body{ 
+    background-image: url("https://i.pinimg.com/originals/6f/a3/2d/6fa32de84d590fe1800c8e55cde91845.jpg");  
+    background-repeat:repeat-x; 
+    height:1000px;
+    filter:fill-opacity(0.5px);
+}
+.details_css{
+    color: yellow;
+    display: block;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 4px;
+    border: rgb(235, 175, 10);
+    cursor:pointer; 
+    border: 5px dotted rgb(209, 231, 5);
+    border-radius: 10px;
+}
+.summary{
+    outline: none;
+}
+.marq{
+    color: yellow;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h2{
+    color:rgb(233, 18, 3);
+    scroll-padding: 50px;
+}
+.original{
+    align-items: center;
+}
+.px{
+    color:rgb(234, 238, 11);
+    text-align: center;
+    font-size:20px;
+}
+.p1{
+    color:rgb(255, 255, 255);
+    text-align:center;
+    font-size:25px;
+    opacity: 0.8px;
+    filter: blur(0,8px);
+    list-style-position:inside;
+    list-style-type:square;
+}
+.a{
+    color:orangered;
+}
+.img{
+    text-align: justify;
+    color:white;
+    fill-opacity: 20px;  
+}
